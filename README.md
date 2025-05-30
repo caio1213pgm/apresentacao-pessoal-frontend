@@ -82,7 +82,7 @@ Segue abaixo a entrega do Desafio 01 para o processo seletivo do Frontend Fusion
 **Data de Início:** 20/05/2025  
 **Data de Entrega:** 30/05/2025  
 **Link do GitHub com o Código:** [https://github.com/caio1213pgm/apresentacao-pessoal-frontend](https://github.com/caio1213pgm/apresentacao-pessoal-frontend)  
-**Link do Deploy:** [https://joaosilva.netlify.app](https://joaosilva.netlify.app)
+**Link do Deploy:** [https://caiofusion.vercel.app/](https://caiofusion.vercel.app/)
 
 Agradeço a oportunidade e estou à disposição para qualquer dúvida.
 
