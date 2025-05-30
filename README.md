@@ -68,7 +68,7 @@ Os critérios de avaliação incluirão:
 
 ## Exemplo de E-mail:
 
-**Assunto:** Entrega + Desafios[01] + João Silva
+**Assunto:** Entrega + Desafios[01] + Caio Fabio
 
 ---
 
@@ -76,18 +76,18 @@ Olá,
 
 Segue abaixo a entrega do Desafio 01 para o processo seletivo do Frontend Fusion.
 
-**Nome:** João Silva  
-**Link do GitHub:** [https://github.com/joaosilva](https://github.com/joaosilva)  
-**Link do LinkedIn:** [https://linkedin.com/in/joaosilva](https://linkedin.com/in/joaosilva)  
-**Data de Início:** 01/09/2024  
-**Data de Entrega:** 20/09/2024  
-**Link do GitHub com o Código:** [https://github.com/joaosilva/desafio01](https://github.com/joaosilva/desafio01)  
+**Nome:** Caio Fabio  
+**Link do GitHub:** [https://github.com/caio1213pgm](https://github.com/caio1213pgm)  
+**Link do LinkedIn:** [https://linkedin.com/in/caiofcfx00](https://linkedin.com/in/caiofcfx00)  
+**Data de Início:** 20/05/2025  
+**Data de Entrega:** 30/05/2025  
+**Link do GitHub com o Código:** [https://github.com/caio1213pgm/apresentacao-pessoal-frontend](https://github.com/caio1213pgm/apresentacao-pessoal-frontend)  
 **Link do Deploy:** [https://joaosilva.netlify.app](https://joaosilva.netlify.app)
 
 Agradeço a oportunidade e estou à disposição para qualquer dúvida.
 
 Atenciosamente,  
-João Silva
+Caio Fabio
 
 ---
 
